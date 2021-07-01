@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/60c1e7d449d42038a0a4c9d2
+Content-Type: application/json
+
+{
+    "title": "muokattudded",
+    "author": "asdasd",
+    "url": "asdasdasd",
+    "likes": 25
+}
